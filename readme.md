@@ -12,8 +12,8 @@ This project downloads songs from the Free Music Archive (FMA) and analyzes thei
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/spectrogram-analysis.git
-    cd spectrogram-analysis
+        https://github.com/sm1899/song_analysis.git
+        cd spectrogram-analysis
     ```
 
 2. Install the required dependencies:
